@@ -99,7 +99,8 @@ The notebook combines theoretical concepts with practical implementation using P
 ```text
 ├── ecommerce_distribution.ipynb
 ├── ecommerce_transactions_dataset.csv
-├── README.md
+├── readme.md
+├── Screenshot.png
 ```
 
 ---
